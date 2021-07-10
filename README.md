@@ -1,0 +1,2 @@
+# Othello_Tkinter_GUI
+使用Tkinter實作Othello的GUI
