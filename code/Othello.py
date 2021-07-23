@@ -42,6 +42,7 @@ class Othello:
                             temp_x = x + Othello.direction_x[i] * j
                             temp_y = y + Othello.direction_y[i] * j
                             self.state[temp_x][temp_y] = self.cur_turn
+                        break
                     else:
                         return True
         return False
