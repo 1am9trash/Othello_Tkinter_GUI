@@ -30,7 +30,7 @@
 
 - **Demo**：開始時預設為 AI agent 對弈，而後可自己選擇模式
 
-  [](https://user-images.githubusercontent.com/69944614/126645856-3f83a348-f745-4769-b294-f3a28713fc4a.mov)
+  [](https://user-images.githubusercontent.com/69944614/126755379-208f521d-80fa-4e43-ab6f-aeae3343bdd9.mov)
 
 - **可能的更新**：
   - **評估函數**：現在 8 x 8 盤面的評估函數是經過設計的，其餘盤面大小，未設計特定的啟發函數。
