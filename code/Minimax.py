@@ -22,9 +22,9 @@ class Minimax:
         count = white.sum() + black.sum()
 
         if white.sum() == 0:
-            score = 1000000
-        elif black.sum() == 0:
             score = -1000000
+        elif black.sum() == 0:
+            score = 1000000
         else:
             if game.board_size == 8:
                 a = (64 - count) / 64
